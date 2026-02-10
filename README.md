@@ -12,7 +12,7 @@ A simple **Profile Page** built using **Flutter**.
 
 ## Screenshots
 
-![Profile Screenshot](assets/images/screenshot.png)  <!-- Optional if you add a screenshot -->
+![Profile Screenshot](assets/images/Flutter_UI.png) 
 
 ## Getting Started
 
